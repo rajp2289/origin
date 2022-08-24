@@ -3,7 +3,7 @@
 
  ```
  SlackConfig{
-  SlackUrl:                 string ← (required) Url for sending Slack notification
+           SlackUrl:                 string ← (required) Url for sending Slack notification
  	SlackVerticalName:   string ← (required) Vertical for which alert should be send
   }
  ```
